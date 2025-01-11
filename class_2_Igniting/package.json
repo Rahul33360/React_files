@@ -1,0 +1,24 @@
+{
+  "name": "class_2_igniting_the_app",
+  "version": "1.0.0",
+  "description": "igniting our app with parcel and node modules",
+  "main": "App.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+
+  "browserslist": [
+    "last 3 version"
+  ]
+}
